@@ -1,6 +1,6 @@
-Hi, I’m @Aadee04
+Hi, I’m Aadee Sawarkar
 
-I’m interested in coding in C, C++, Python, and HTML/CSS
+I’m interested in coding in C, C++, Python. HTML/CSS web development is also included
 
 I’m currently learning C++ and HTML/CSS
 
