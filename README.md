@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PC STOP (E-commerce Website), JavaFX Application**
 
-- 🌱 I’m currently learning **JavaFX**
+- 🌱 I’m currently learning **JavaFX, mysql**
 
 - 📫 How to reach me **aadee2004@gmail.com**
 
