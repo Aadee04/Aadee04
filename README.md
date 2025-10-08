@@ -4,7 +4,7 @@
 <h3 align="center">A Software/Artificial Intelligence Engineer</h3>
 
 <!-- Profile Visited Counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadee04&label=Account%20Viewed%20Counter&color=100882&style=flat-square" alt="aadee04" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadee04&label=Account%20Viewed%20Counter&color=100882&style=flat-square" alt="aadee04" /> </p> -->
 
 <!-- Trophies -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadee04&theme=onedark" alt="aadee04" /></a> </p>
@@ -158,7 +158,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadee04&show_icons=true&theme=dark&locale=en&layout=compact" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadee04&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aadee04&show_icons=true&theme=dark&locale=en" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=aadee04&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=aadee04&show_icons=true&theme=dark&locale=en" /> -->
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=aadee04&limit=5&theme=dark&combine_all_yearly_contributions=true" /> -->
 </p>
 
