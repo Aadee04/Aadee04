@@ -1,6 +1,6 @@
 
 <!-- Intro -->
-<h1 align="center">Hi 🤖, I'm Aadee Sawarkar</h1>
+<h1 align="center">Hi 🤖, I am Aadee Sawarkar</h1>
 <h3 align="center">A Software/Artificial Intelligence Engineer</h3>
 
 <!-- Profile Visited Counter -->
