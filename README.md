@@ -11,7 +11,7 @@
 
 ### Most Popular Recent Project (Public Repo)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadee04&repo=capstone-system-interactions-with-ai&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadee04&repo=capstone-agentic-system-interactions-with-ai&theme=dark" />
 </p>
 
 <!-- Current Project -->
