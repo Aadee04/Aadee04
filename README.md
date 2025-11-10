@@ -9,11 +9,6 @@
 <!-- Trophies -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadee04&theme=onedark" alt="aadee04" /></a> </p>
 
-### Most Popular Recent Project (Public Repo)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadee04&repo=capstone-agentic-system-interactions-with-ai&theme=dark" />
-</p>
-
 <!-- Current Project -->
 - I’m currently working on System Interactions with AI (Capstone Project)
 
