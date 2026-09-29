@@ -1,7 +1,7 @@
 
 <!-- Intro -->
 <h1 align="center">Hi 🤖, I am Aadee Sawarkar</h1>
-<h3 align="center">A Software/Artificial Intelligence Engineer</h3>
+<h3 align="center">An Artificial Intelligence / Machine Learning Engineer</h3>
 
 <!-- Profile Visited Counter -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadee04&label=Account%20Viewed%20Counter&color=100882&style=flat-square" alt="aadee04" /> </p> -->
@@ -22,10 +22,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aadee-sawarkar-b72966238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadee-sawarkar-b72966238" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aadee2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadee2004" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/aadee2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadee2004" height="30" width="40" /></a> -->
 </p>
 
 <!-- LOGOS -->
+
+<!-- 
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -53,7 +55,6 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   </a>
 </p>
-
 <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -84,7 +85,6 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </a>
 </p>
-
 <h3 align="left">Databases & Cloud:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -97,7 +97,6 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
   </a>
 </p>
-
 <h3 align="left">Tools & IDEs:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -116,7 +115,6 @@
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Colab"/>
   </a>
 </p>
-
 <h3 align="left">AI & LLMs:</h3>
 <p align="left">
   <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
@@ -129,7 +127,6 @@
     <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   </a>
 </p>
-
 <h3 align="left">Other Tools:</h3>
 <p align="left">
   <a href="https://www.wix.com/" target="_blank" rel="noreferrer">
@@ -147,7 +144,7 @@
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron"/>
   </a>
-</p>
+</p> -->
 
 
 
